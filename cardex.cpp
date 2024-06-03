@@ -8,9 +8,9 @@ int main()
          << "to accumulate a debt of $100, starting with \n"
          << " an intial balance of $50 owed. \n"
          << " the interest rate is 2% per month. \n ";
-    while (balance < 300000.00)
+    while (balance < 100.00)
     {
-        balance = balance + 0.00355 * balance ;
+        balance = balance + 0.02 * balance ;
         count++;
 
     }
