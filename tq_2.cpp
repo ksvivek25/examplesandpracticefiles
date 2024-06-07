@@ -1,0 +1,1 @@
+// given savings and expenses are variables of double data type
